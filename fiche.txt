@@ -1,0 +1,6 @@
+MARTORANA Aurore
+*Bonne connexion pour utiliser Collaborate mais pas de micro intégré à l'ordinateur
+*tel: 06.68.81.18.03
+
+*projet fait sur CodeBlocks
+Le seul exécutable est main.cpp

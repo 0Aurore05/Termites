@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1589984708 source:c:\users\aurore\documents\université\info121\projetfinal\main.cpp
+	<iostream>
+	<time.h>
+	"coord.cpp"
+	"grille.cpp"
+	"termites.cpp"
+
+1590072136 c:\users\aurore\documents\université\info121\projetfinal\coord.cpp
+	<iostream>
+	<cassert>
+	"coord.hpp"
+
+1590074020 c:\users\aurore\documents\université\info121\projetfinal\coord.hpp
+
+1590072134 c:\users\aurore\documents\université\info121\projetfinal\grille.cpp
+	<iostream>
+	<cassert>
+	"grille.hpp"
+	"termites.hpp"
+
+1590072292 c:\users\aurore\documents\université\info121\projetfinal\grille.hpp
+
+1590072185 c:\users\aurore\documents\université\info121\projetfinal\termites.hpp
+
+1590072222 c:\users\aurore\documents\université\info121\projetfinal\termites.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"termites.hpp"
+
